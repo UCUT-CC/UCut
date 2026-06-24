@@ -162,48 +162,6 @@ UCut supports **13 video processing methods** covering the entire video producti
 
 ---
 
-<a id="installation"></a>
-## 📦 Installation
-
-UCut offers **User Mode** (recommended) and **Developer Mode**.
-
-### User Mode
-[Download UCut from GitHub](https://github.com/FutureUniant/Tailor/releases) and double-click to install.  
-Currently Windows-only.
-
-### Developer Mode
-
-#### Prerequisites
-- Python 3.10 ~ 3.14
-
-#### Quick Start
-
-```bash
-# 1. Clone
-git clone https://github.com/FutureUniant/Tailor.git
-cd UCut
-
-# 2. (Optional) GPU acceleration — ensure CUDA + cuDNN
-
-# 3. Install core dependencies
-pip install -r requirements.txt
-
-# Note for Python 3.14: some packages need manual version adjustments
-#    - Downgrade numpy: pip install "numpy<2"
-#    - g2p_en patch: see patches/ directory
-#    - pyaudio stub used automatically if missing
-
-# 4. Install FFmpeg & ImageMagick
-#    Download and extract to UCut/extensions/:
-#    - FFmpeg: https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-6.1.1-essentials_build.7z
-#    - ImageMagick: https://imagemagick.org/archive/binaries/ImageMagick-7.1.1-29-portable-Q16-x64.zip
-
-# 5. Launch
-python main.py
-```
-
-> 💡 If double-clicking main.py flashes a console window, use `pythonw main.py` instead or double-click `start.bat`.
-
 ---
 
 <a id="getting-started"></a>
