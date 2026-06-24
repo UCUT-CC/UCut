@@ -1,0 +1,214 @@
+# home page i18n-zh_TW.
+# Copyright (C) 2024 ORGANIZATION
+# FutureAnt <zcyuniant@163.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: UCut V1.0.0\n"
+"POT-Creation-Date: 2024-01-30\n"
+"PO-Revision-Date: 2024-02-18\n"
+"Last-Translator: FutureAnt <zcyuniant@163.com>\n"
+"Language-Team: zh_CN <zcyuniant@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+msgid "New"
+msgstr "新建"
+
+msgid "Open"
+msgstr "打開"
+
+msgid "Theme"
+msgstr "主題"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Finish"
+msgstr "完成"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Are you sure to delete this project?"
+msgstr "是否確認刪除該工程？"
+
+msgid "OK"
+msgstr "確認"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "New Project"
+msgstr "新建工程"
+
+msgid "Project Name"
+msgstr "工程名稱"
+
+msgid "Project Path"
+msgstr "工程位置"
+
+msgid "Browse"
+msgstr "瀏覽"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please enter"
+msgstr "請輸入"
+
+msgid "Download Online"
+msgstr "網路下載"
+
+msgid "Downloaded Videos"
+msgstr "下載的影片"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "No downloaded videos yet"
+msgstr "暫無下載的影片"
+
+msgid "Video Files"
+msgstr "影片檔案"
+
+msgid "Project Files"
+msgstr "工程檔案"
+
+msgid "All Files"
+msgstr "所有檔案"
+
+msgid "Online Video"
+msgstr "網路影片"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Import Video from Web"
+msgstr "從網路匯入影片"
+
+msgid "Paste video link (Douyin / Bilibili / YouTube / etc.)"
+msgstr "貼上影片分享連結，支援 抖音 / B站 / YouTube 等"
+
+msgid "Platform:"
+msgstr "平台："
+
+msgid "Auto Detect"
+msgstr "自動偵測"
+
+msgid "Quality:"
+msgstr "畫質："
+
+msgid "Best Quality (Recommended)"
+msgstr "最佳畫質（推薦）"
+
+msgid "HD 1080p"
+msgstr "高畫質 1080p"
+
+msgid "HD 720p"
+msgstr "高畫質 720p"
+
+msgid "SD 480p"
+msgstr "標清 480p"
+
+msgid "Audio Only MP3"
+msgstr "僅音訊 MP3"
+
+msgid "Enable Cookies (check when logged in)"
+msgstr "啟用 Cookies（已登入時勾選）"
+
+msgid "Use saved cookies"
+msgstr "使用已儲存的 cookies"
+
+msgid "records"
+msgstr "條記錄"
+
+msgid "Extract from browser"
+msgstr "從瀏覽器提取"
+
+msgid "(close browser before extracting)"
+msgstr "（需關閉瀏覽器後提取）"
+
+msgid "Paste cookies manually"
+msgstr "手動貼上 Cookies"
+
+msgid "Install Get cookies.txt extension\nLog in to the site -> click extension -> check Include HttpOnly -> Export -> Copy all and paste below"
+msgstr "安裝 Get cookies.txt 擴充功能\n登入目標網站 → 點擊擴充功能 → 勾選 Include HttpOnly → Export → 全選複製貼上"
+
+msgid "Paste cookies here (Ctrl+V)"
+msgstr "在此貼上 cookies 內容（Ctrl+V）"
+
+msgid "⚡ Extract Cookies from Browser (run as admin)"
+msgstr "⚡ 一鍵提取瀏覽器 Cookies（以管理員身分執行）"
+
+msgid "Open video directly after download (no project)"
+msgstr "下載後直接開啟影片（不建立工程）"
+
+msgid "Download & Import ▸"
+msgstr "下載並匯入 ▸"
+
+msgid "Direct Download & Open ▸"
+msgstr "直接下載開啟 ▸"
+
+msgid "No saved cookies found. Extract or paste manually."
+msgstr "找不到已儲存的 cookies 檔案，請先提取或手動貼上"
+
+msgid "Please paste valid cookies (at least one non-comment line)."
+msgstr "請先貼上有效的 cookies（至少包含一條非註解的 cookie 記錄）"
+
+msgid "Extracting Edge cookies as administrator..."
+msgstr "正在以管理員身分提取 Edge cookies..."
+
+msgid "Extraction timed out"
+msgstr "提取逾時"
+
+msgid "Extraction failed"
+msgstr "提取失敗"
+
+msgid "Cookies extracted! Click Download to use them."
+msgstr "Cookies 提取成功！請點擊下載按鈕使用"
+
+msgid "No Douyin cookies found. Make sure you are logged in Edge."
+msgstr "找不到抖音相關的 cookies，請確認已在 Edge 中登入抖音"
+
+msgid "Downloading..."
+msgstr "下載中..."
+
+msgid "Cancel Download"
+msgstr "取消下載"
+
+msgid "Getting video info..."
+msgstr "正在取得影片資訊..."
+
+msgid "waited"
+msgstr "已等待"
+
+msgid "Cancelling download..."
+msgstr "正在取消下載..."
+
+msgid "Please paste a video link first!"
+msgstr "請先貼上影片連結！"
+
+msgid "Preparing..."
+msgstr "準備中..."
+
+msgid "Download cancelled"
+msgstr "下載已取消"
+
+msgid "Download successful! Opening..."
+msgstr "下載成功！正在開啟..."
+
+msgid "Download successful! Importing..."
+msgstr "下載成功！正在匯入專案..."
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "anti-crawl"
+msgstr "反爬"
+
+msgid "Tip: Close this window and use 'Import Local File' to open the downloaded video."
+msgstr "提示：可以關閉此視窗，使用「本機檔案匯入」功能開啟已下載的影片檔案"

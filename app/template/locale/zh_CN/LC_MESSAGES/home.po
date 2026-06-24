@@ -1,0 +1,214 @@
+# home page i18n-zh_CN.
+# Copyright (C) 2024 ORGANIZATION
+# FutureAnt <zcyuniant@163.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: UCut V1.0.0\n"
+"POT-Creation-Date: 2024-01-30\n"
+"PO-Revision-Date: 2024-02-18\n"
+"Last-Translator: FutureAnt <zcyuniant@163.com>\n"
+"Language-Team: zh_CN <zcyuniant@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+msgid "New"
+msgstr "新建"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Finish"
+msgstr "完成"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Are you sure to delete this project?"
+msgstr "是否确认删除该工程？"
+
+msgid "OK"
+msgstr "确认"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "New Project"
+msgstr "新建工程"
+
+msgid "Project Name"
+msgstr "工程名称"
+
+msgid "Project Path"
+msgstr "工程位置"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please enter"
+msgstr "请输入"
+
+msgid "Download Online"
+msgstr "网上下载"
+
+msgid "Downloaded Videos"
+msgstr "下载的视频"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "No downloaded videos yet"
+msgstr "暂无下载的视频"
+
+msgid "Video Files"
+msgstr "视频文件"
+
+msgid "Project Files"
+msgstr "工程文件"
+
+msgid "All Files"
+msgstr "所有文件"
+
+msgid "Online Video"
+msgstr "网络视频"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Import Video from Web"
+msgstr "从网络导入视频"
+
+msgid "Paste video link (Douyin / Bilibili / YouTube / etc.)"
+msgstr "粘贴视频分享链接，支持 抖音 / B站 / YouTube 等"
+
+msgid "Platform:"
+msgstr "平台："
+
+msgid "Auto Detect"
+msgstr "自动检测"
+
+msgid "Quality:"
+msgstr "画质："
+
+msgid "Best Quality (Recommended)"
+msgstr "最佳质量（推荐）"
+
+msgid "HD 1080p"
+msgstr "高清 1080p"
+
+msgid "HD 720p"
+msgstr "高清 720p"
+
+msgid "SD 480p"
+msgstr "标清 480p"
+
+msgid "Audio Only MP3"
+msgstr "仅音频 MP3"
+
+msgid "Enable Cookies (check when logged in)"
+msgstr "启用 Cookies（已登录时勾选）"
+
+msgid "Use saved cookies"
+msgstr "使用已保存的 cookies"
+
+msgid "records"
+msgstr "条记录"
+
+msgid "Extract from browser"
+msgstr "从浏览器提取"
+
+msgid "(close browser before extracting)"
+msgstr "（需关闭浏览器后提取）"
+
+msgid "Paste cookies manually"
+msgstr "手动粘贴 Cookies"
+
+msgid "Install Get cookies.txt extension\nLog in to the site -> click extension -> check Include HttpOnly -> Export -> Copy all and paste below"
+msgstr "安装 Get cookies.txt 扩展\n登录目标网站 → 点击扩展 → 勾选 Include HttpOnly → Export → 全选复制粘贴"
+
+msgid "Paste cookies here (Ctrl+V)"
+msgstr "在此粘贴 cookies 内容（Ctrl+V）"
+
+msgid "⚡ Extract Cookies from Browser (run as admin)"
+msgstr "⚡ 一键提取浏览器 Cookies（以管理员身份运行）"
+
+msgid "Open video directly after download (no project)"
+msgstr "下载后直接打开视频（不创建工程）"
+
+msgid "Download & Import ▸"
+msgstr "下载并导入 ▸"
+
+msgid "Direct Download & Open ▸"
+msgstr "直接下载打开 ▸"
+
+msgid "No saved cookies found. Extract or paste manually."
+msgstr "未找到已保存的 cookies 文件，请先提取或手动粘贴"
+
+msgid "Please paste valid cookies (at least one non-comment line)."
+msgstr "请先粘贴有效的 cookies（至少包含一条非注释的 cookie 记录）"
+
+msgid "Extracting Edge cookies as administrator..."
+msgstr "正在以管理员身份提取 Edge cookies..."
+
+msgid "Extraction timed out"
+msgstr "提取超时"
+
+msgid "Extraction failed"
+msgstr "提取失败"
+
+msgid "Cookies extracted! Click Download to use them."
+msgstr "Cookies 提取成功！请点击下载按钮使用"
+
+msgid "No Douyin cookies found. Make sure you are logged in Edge."
+msgstr "未找到抖音相关的 cookies，请确认已在 Edge 中登录抖音"
+
+msgid "Downloading..."
+msgstr "下载中..."
+
+msgid "Cancel Download"
+msgstr "取消下载"
+
+msgid "Getting video info..."
+msgstr "正在获取视频信息..."
+
+msgid "waited"
+msgstr "已等待"
+
+msgid "Cancelling download..."
+msgstr "正在取消下载..."
+
+msgid "Please paste a video link first!"
+msgstr "请先粘贴视频链接！"
+
+msgid "Preparing..."
+msgstr "准备中..."
+
+msgid "Download cancelled"
+msgstr "下载已取消"
+
+msgid "Download successful! Opening..."
+msgstr "下载成功！正在打开..."
+
+msgid "Download successful! Importing..."
+msgstr "下载成功！正在导入项目..."
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "anti-crawl"
+msgstr "反爬"
+
+msgid "Tip: Close this window and use 'Import Local File' to open the downloaded video."
+msgstr "提示：可以关闭本窗口，使用「本地文件导入」功能导入已下载的视频文件"

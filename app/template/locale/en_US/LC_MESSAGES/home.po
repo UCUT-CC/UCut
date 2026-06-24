@@ -1,0 +1,217 @@
+# home page i18n-en_US.
+# Copyright (C) 2024 ORGANIZATION
+# FutureAnt <zcyuniant@163.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: UCut V1.0.0\n"
+"POT-Creation-Date: 2024-01-30\n"
+"PO-Revision-Date: 2024-02-18\n"
+"Last-Translator: FutureAnt <zcyuniant@163.com>\n"
+"Language-Team: zh_CN <zcyuniant@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+msgid "New"
+msgstr "New"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "Finish"
+msgstr "Finish"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Are you sure to delete this project?"
+msgstr "Are you sure to delete this project?"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "New Project"
+msgstr "New Project"
+
+msgid "Project Name"
+msgstr "Project Name"
+
+msgid "Project Path"
+msgstr "Project Path"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Please enter"
+msgstr "Please enter"
+
+msgid "Download Online"
+msgstr "Download Online"
+
+msgid "Downloaded Videos"
+msgstr "Downloaded Videos"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "No downloaded videos yet"
+msgstr "No downloaded videos yet"
+
+msgid "Video Files"
+msgstr "Video Files"
+
+msgid "Project Files"
+msgstr "Project Files"
+
+msgid "All Files"
+msgstr "All Files"
+
+msgid "Online Video"
+msgstr "Online Video"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Import Video from Web"
+msgstr "Import Video from Web"
+
+msgid "Paste video link (Douyin / Bilibili / YouTube / etc.)"
+msgstr "Paste video link (Douyin / Bilibili / YouTube / etc.)"
+
+msgid "Platform:"
+msgstr "Platform:"
+
+msgid "Auto Detect"
+msgstr "Auto Detect"
+
+msgid "Quality:"
+msgstr "Quality:"
+
+msgid "Best Quality (Recommended)"
+msgstr "Best Quality (Recommended)"
+
+msgid "HD 1080p"
+msgstr "HD 1080p"
+
+msgid "HD 720p"
+msgstr "HD 720p"
+
+msgid "SD 480p"
+msgstr "SD 480p"
+
+msgid "Audio Only MP3"
+msgstr "Audio Only MP3"
+
+msgid "Enable Cookies (check when logged in)"
+msgstr "Enable Cookies (check when logged in)"
+
+msgid "Use saved cookies"
+msgstr "Use saved cookies"
+
+msgid "records"
+msgstr "records"
+
+msgid "Extract from browser"
+msgstr "Extract from browser"
+
+msgid "(close browser before extracting)"
+msgstr "(close browser before extracting)"
+
+msgid "Paste cookies manually"
+msgstr "Paste cookies manually"
+
+msgid "Install Get cookies.txt extension\nLog in to the site -> click extension -> check Include HttpOnly -> Export -> Copy all and paste below"
+msgstr "Install Get cookies.txt extension\nLog in to the site -> click extension -> check Include HttpOnly -> Export -> Copy all and paste below"
+
+msgid "Paste cookies here (Ctrl+V)"
+msgstr "Paste cookies here (Ctrl+V)"
+
+msgid "⚡ Extract Cookies from Browser (run as admin)"
+msgstr "⚡ Extract Cookies from Browser (run as admin)"
+
+msgid "Open video directly after download (no project)"
+msgstr "Open video directly after download (no project)"
+
+msgid "Download & Import ▸"
+msgstr "Download & Import ▸"
+
+msgid "Direct Download & Open ▸"
+msgstr "Direct Download & Open ▸"
+
+msgid "No saved cookies found. Extract or paste manually."
+msgstr "No saved cookies found. Extract or paste manually."
+
+msgid "Please paste valid cookies (at least one non-comment line)."
+msgstr "Please paste valid cookies (at least one non-comment line)."
+
+msgid "Extracting Edge cookies as administrator..."
+msgstr "Extracting Edge cookies as administrator..."
+
+msgid "Extraction timed out"
+msgstr "Extraction timed out"
+
+msgid "Extraction failed"
+msgstr "Extraction failed"
+
+msgid "Cookies extracted! Click Download to use them."
+msgstr "Cookies extracted! Click Download to use them."
+
+msgid "No Douyin cookies found. Make sure you are logged in Edge."
+msgstr "No Douyin cookies found. Make sure you are logged in Edge."
+
+msgid "Downloading..."
+msgstr "Downloading..."
+
+msgid "Cancel Download"
+msgstr "Cancel Download"
+
+msgid "Getting video info..."
+msgstr "Getting video info..."
+
+msgid "waited"
+msgstr "waited"
+
+msgid "Cancelling download..."
+msgstr "Cancelling download..."
+
+msgid "Please paste a video link first!"
+msgstr "Please paste a video link first!"
+
+msgid "Preparing..."
+msgstr "Preparing..."
+
+msgid "Download cancelled"
+msgstr "Download cancelled"
+
+msgid "Download successful! Opening..."
+msgstr "Download successful! Opening..."
+
+msgid "Download successful! Importing..."
+msgstr "Download successful! Importing..."
+
+msgid "Failed"
+msgstr "Failed"
+
+msgid "anti-crawl"
+msgstr "anti-crawl"
+
+msgid "Tip: Close this window and use 'Import Local File' to open the downloaded video."
+msgstr "Tip: Close this window and use 'Import Local File' to open the downloaded video."
