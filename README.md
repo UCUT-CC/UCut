@@ -28,6 +28,10 @@
   </samp>
   </strong>
   </div>
+
+  <p>
+  <a href="https://ucut-cc.github.io/UCut/" target="_blank"><strong>🌐 官方网站</strong></a>
+  </p>
 </div>
 
 ---
