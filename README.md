@@ -52,15 +52,9 @@
 <a id="introductions"></a>
 ## 🎯 项目介绍
 
-**UCut（泰勒）** 是一款基于 AI 的视频智能处理工具，集**视频剪辑、视频生成、视频优化**三大核心能力于一体，现新增**在线视频下载**功能，覆盖从获取素材到成片输出的完整工作流。
+**UCut** 是一款基于 AI 的视频智能处理工具，集**视频剪辑、视频生成、视频优化**三大核心能力于一体，现新增**在线视频下载**功能，覆盖从获取素材到成片输出的完整工作流。
 
 只需点点鼠标，即可调用最前沿的人工智能模型完成复杂的视频处理任务。无需专业剪辑技能，人人都能创作高质量视频作品。
-
-### UCut界面
-
-| 主界面 | 工作界面 |
-|:---:|:---:|
-| ![主界面](assets/home.png) | ![工作界面](assets/work.png) |
 
 ---
 
@@ -259,30 +253,9 @@ python main.py
 
 ---
 
-<a id="business"></a>
-## 🤝 商务合作
-`mongodb1994@qq.com`
-
-<a id="join-us"></a>
-## 💬 加入我们
-
-| 方式 | 地址 |
-|------|------|
-| 📱 微信公众号 | ![微信公众号](assets/wechat-public.jpg) |
-| 👥 微信群 | 二维码过期？公众号回复 **微信群** 获取最新二维码 ![微信群](assets/wechat-group.jpg) |
-| 💬 QQ群 | `707910020` |
-
-<a id="support"></a>
-## ☕ 打赏支持
-支持项目的持续开发和维护：
-
-| 微信 | 支付宝 |
-|------|--------|
-| <img src="assets/WeChatpay.jpg" height="400" style="object-fit: contain"/> | <img src="assets/Alipay.jpg" height="400" style="object-fit: contain"/> |
-
 <a id="issue"></a>
 ## 📬 问题与反馈
-GitHub Issues · `mongodb1994@qq.com`
+GitHub Issues
 
 <a id="special-thanks"></a>
 ## 🙏 特别感谢
