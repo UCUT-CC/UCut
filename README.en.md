@@ -56,12 +56,6 @@
 
 No professional editing skills required. Just click, and let AI handle the heavy lifting.
 
-### Interface
-
-| Home | Workspace |
-|:---:|:---:|
-| ![Home](assets/home.png) | ![Work](assets/work.png) |
-
 ---
 
 <a id="features"></a>
@@ -256,21 +250,9 @@ python main.py
 
 ---
 
-<a id="business"></a>
-## 🤝 Business Inquiries
-`mongodb1994@qq.com`
-
-<a id="support"></a>
-## ☕ Support the Project
-Support ongoing development and maintenance:
-
-| WeChat | Alipay |
-|--------|--------|
-| <img src="assets/WeChatpay.jpg" height="400" style="object-fit: contain"/> | <img src="assets/Alipay.jpg" height="400" style="object-fit: contain"/> |
-
 <a id="issue"></a>
 ## 📬 Issues & Feedback
-GitHub Issues · `mongodb1994@qq.com`
+GitHub Issues
 
 <a id="special-thanks"></a>
 ## 🙏 Special Thanks
